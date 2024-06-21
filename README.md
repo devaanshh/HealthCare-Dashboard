@@ -63,3 +63,7 @@ By leveraging this Power BI dashboard, healthcare institutions can better unders
 
 - [@devaanshh](https://github.com/devaanshh)
 
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devansh-singh-61743b23b/)
+
