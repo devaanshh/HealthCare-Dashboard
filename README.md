@@ -8,6 +8,9 @@ In healthcare data management, patient wait lists play a crucial role in resourc
 
 ![Screenshot 2024-06-22 000156](https://github.com/devaanshh/HealthCare-Dashboard/assets/114211732/fc3908cb-b66f-462e-8430-c56c1825d6fb)
 
+![Screenshot 2024-06-22 000711](https://github.com/devaanshh/HealthCare-Dashboard/assets/114211732/0f044052-82f1-4460-b4af-a1a9e8f478f0)
+
+
 
 ## Features
 
