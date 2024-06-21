@@ -1,5 +1,5 @@
 
-# HealthCare Dashboard
+# HealthCare-Dashboard
 
 In healthcare data management, patient wait lists play a crucial role in resource allocation, scheduling, and treatment planning. The HealthCare dashboard provides insights into different patient categories: inpatients and outpatients.
 
